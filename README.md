@@ -1,6 +1,6 @@
 # VaDE_pytorch
-Variational deep embedding pytorch
+Pytorch emplementation for Variational Deep Embeddings
 
-# requirement
-torch==0.4.1
-sklearn
+# requirements
+- torch==0.4.1
+- sklearn
